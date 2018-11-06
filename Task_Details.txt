@@ -1,0 +1,6 @@
+Task – Predict the DV (Dependent Variable)
+------------------------------------------
+1. Training Dataset to train the Model
+2. Validation Dataset to validate the Model
+3. 17 Independent Variables (V1 – V17)
+4. Training Dataset consist of 2053 records
